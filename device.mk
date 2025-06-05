@@ -57,3 +57,4 @@ PRODUCT_PACKAGES += \
 
 # Inherit from gta4l-common
 $(call inherit-product, device/samsung/gta4l-common/gta4l.mk)
+$(call inherit-product, vendor/lindroid/lindroid.mk)
